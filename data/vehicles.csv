@@ -1,0 +1,6 @@
+vehicleId,vehicleNo,driver,area,speed,fuel,battery,temperature,status,destination,latitude,longitude
+VH001,MH14AB1234,Rahul Patil,Pune,52,75,85,72,Moving,Mumbai,18.5204,73.8567
+VH002,MH12CD5678,Priya Sharma,Nashik,0,62,78,65,Idle,Pune,19.9975,73.7898
+VH003,MH15EF9012,Amit Singh,Mumbai,68,45,90,80,Moving,Nagpur,19.0760,72.8777
+VH004,MH16GH3456,Sneha Patil,Nashik,0,35,70,60,Offline,Nashik,19.9975,73.7898
+VH005,MH20XY6789,Anjali More,Pune,95,15,18,98,Moving,Satara,18.5314,73.8446
